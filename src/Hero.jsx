@@ -17,12 +17,11 @@ function Hero() {
           </div>
         </div>
 
-        <div className="hero-image">
-          <div className="avatar"><img  src="/public/WhatsApp Image 2025-12-11 at 17.02.57_749e50ab.jpg" alt="" /></div>
-        </div>
+
       </div>
     </section>
   );
 }
+
 
 export default Hero;
