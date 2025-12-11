@@ -23,7 +23,7 @@ function Contact() {
         <div>
           <h3>CV PDF</h3>
           <p>
-            <a  href="https://drive.google.com/drive/folders/1HTDn59FDGCEGb_OpL1f9aDAmL5blciN9?usp=drive_link" id="cv" target="_blank">CV.pdf</a>
+           <a  href="https://drive.google.com/file/d/1OlzbJ2aTFKD5qXGqdGx1I8hxsUvNvCdP/view?usp=drive_link" id="cv" target="_blank" download>CV.pdf</a>
           </p>
         
         </div>
@@ -31,5 +31,6 @@ function Contact() {
     </section>
   );
 }
+
 
 export default Contact;
